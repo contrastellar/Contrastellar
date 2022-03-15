@@ -14,5 +14,6 @@ Below is some of the stuff I've worked on and I'm interested in!
 - Creating command-line tools for productivity and leaving notes for yourself without having `git` track them!
 
 Feel free to interact with me on Twitter!
-[My Personal Account](https://twitter.com/contrastellar)
-[My IT Related Account](https://twitter.com/GabsDoesIT)
+
+- [My Personal Account](https://twitter.com/contrastellar)
+- [My IT Related Account](https://twitter.com/GabsDoesIT)
