@@ -8,7 +8,7 @@ At the moment I'm currently taking a kind of gap year from University, but prior
 
 Below is some of the stuff I've worked on and I'm interested in!
 - The OpossumBot Discord Bot which is a 'for-fun' project of mine for posting Opossum pictures to Discord
-- ADS-B IN command-line interface (think `top` but for reading ADS-B info coming off of airplanes)
+- ADS-B IN command-line interface (think `dump1090`, but I want to work on something similar)
 - Flight Sim modding (I lurk on the Working Title CJ4)
 - Helping friends with tools for their games! (Destiny 2 & FFXIV are two focuses right now)
 - Creating command-line tools for productivity and leaving notes for yourself without having `git` track them!
