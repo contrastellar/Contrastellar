@@ -7,7 +7,7 @@ Currently on a gap year, but I am transferring to Metropolitan State University 
 Below is some of the stuff I've worked on and I'm interested in!
 - The OpossumBot Discord Bot which is a 'for-fun' project of mine for posting Opossum pictures to Discord 
 - Flight Sim modding (I lurk on the Working Title CJ4)
-- Creating tools/web tools for various games that I play (Stellaris, Destiny 2, FFXIV, etc.
+- Creating tools/web tools for various games that I play (Stellaris, Destiny 2, FFXIV, etc.)
 
 Feel free to interact with me on Twitter!
 - [My Personal Account](https://twitter.com/contrastellar)
