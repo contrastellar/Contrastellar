@@ -4,7 +4,10 @@ I'm that junior software developer and devops engineer who spends a lot of time 
 
 Currently studying Computer Science and Meteorology, with a minor in Math at MSU Denver.
 
+I'm a Author, Musician, and GameDev
+
 Below is some of the stuff I've worked on and I'm interested in!
+- Project Elysium -- Details `tba`.
 - The OpossumBot Discord Bot which is a 'for-fun' project of mine for posting Opossum pictures to Discord 
 - Flight Sim modding (I lurk on the Working Title CJ4)
 - Creating tools/web tools for various games that I play (Stellaris, Destiny 2, FFXIV, etc.)
