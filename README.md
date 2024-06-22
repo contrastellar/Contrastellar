@@ -7,6 +7,7 @@ Currently studying Computer Science and Meteorology, with a minor in Math at MSU
 I'm a Author, Musician, and GameDev
 
 Below is some of the stuff I've worked on and I'm interested in!
+- `raid-callouts` -- A discord bot/framework that lets friends of mine have an automated way of "calling out" from raids, when they're not going to be present.
 - Project Elysium -- Details `tba`.
 - AO3-read-time -- a Firefox extension for calculating how long it'll take you to read a fic!
 - MTG_Scryfall_Grabber -- a python module to grab JSON from [scryfall](https://scryfall.com)
