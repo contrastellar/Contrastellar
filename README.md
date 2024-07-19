@@ -2,7 +2,7 @@
 
 I'm that junior software developer and devops engineer who spends a lot of time caring about how her online profiles look!
 
-Currently studying Computer Science and Meteorology, with a minor in Math at MSU Denver.
+Currently studying Computer Science at MSU Denver.
 
 I'm a Author, Musician, and GameDev
 
