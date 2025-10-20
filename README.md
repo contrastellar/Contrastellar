@@ -6,4 +6,4 @@ Currently studying Computer Science at MSU Denver.
 
 I'm a Author, Musician, and GameDev
 
-I do not currently use GitHub as my main code maintenance place. Please check out my own (gitea instance)[https://git.contrastellar.com]!
+I do not currently use GitHub as my main code maintenance place. Please check out my own [gitea instance](https://git.contrastellar.com)!
